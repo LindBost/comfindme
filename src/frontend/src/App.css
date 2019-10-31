@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.pageContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.searchContainer {
+  width: 50%;
+}
+
+.mapContainer {
+  width: 50%;
+}
+
+.imageDiv img {
+  width: 100%;
+}
